@@ -254,15 +254,6 @@ También se comprobó que un modelo más complejo no siempre obtiene un mejor re
 
 Como continuación del proyecto se podrían incorporar datos de jugadores, rankings internacionales, lesiones, convocatorias y tipo de competencia. También sería posible actualizar el historial automáticamente, probar nuevas técnicas para mejorar la detección de empates, calibrar las probabilidades y desarrollar una interfaz gráfica para realizar las predicciones.
 
-## Tecnologías utilizadas
-
-- Python.
-- NumPy y pandas.
-- Matplotlib y seaborn.
-- scikit-learn.
-- XGBoost.
-- Jupyter Notebook / Google Colab.
-
 ## Bibliografía y fuentes
 
 - [Dataset del proyecto](https://github.com/abrilnacif2/Proyecto-Final-Data-Science/blob/main/datos_oficial_partidos.csv).
