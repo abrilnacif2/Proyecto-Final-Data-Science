@@ -3,8 +3,6 @@
 Proyecto final del curso de Data Science  
 **Alumna:** Abril Nacif
 
-[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abrilnacif2/Proyecto-Final-Data-Science/blob/main/Trabajo_Final_Futbol_Nacif.ipynb)
-
 ## Descripción del proyecto
 
 Este proyecto busca predecir el resultado de un partido internacional de fútbol a partir de información histórica. El problema se plantea como una **clasificación multiclase**, ya que el modelo puede devolver tres resultados posibles:
